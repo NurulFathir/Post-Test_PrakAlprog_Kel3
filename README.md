@@ -1,22 +1,21 @@
-# Post-Test_PrakAlprog_Kel3
-Dokumentasi tugas kelompok post-test praktikum algoritma &amp; Pemrograman
+# 📊 Proyek Visualisasi Data - Grafik Komprehensif
 
-Fawas Handoyo (21060125120001) --> Pengkodean Grafik 5 (Gabungan) Bagian 1
+## 👥 Anggota Kelompok & Pembagian Tugas
 
-Mendevelop script awal untuk menyusun subplot dan menggabungkan beberapa metrik data ke dalam satu figure visualisasi yang komprehensif.
+Berikut adalah daftar anggota tim beserta kontribusi dan tanggung jawab dalam proyek ini:
 
-Reno Firdaus Mahendra (21060125120045) --> Desain Infografis
+| Anggota Tim | Peran & Kontribusi | Kontak / Media Sosial |
+| :--- | :--- | :--- |
+| **Fawas Handoyo**<br>`21060125120001` | **Pengkodean Grafik 5 (Gabungan) Bagian 1**<br>Mendevelop script awal untuk menyusun subplot dan menggabungkan beberapa metrik data ke dalam satu figure visualisasi yang komprehensif. | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/username_fawas) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/c/channel_fawas) |
+| **Reno Firdaus Mahendra**<br>`21060125120045` | **Desain Infografis**<br>Menerjemahkan hasil akhir plotting data dari bahasa pemrograman ke dalam bentuk infografis. Mengatur layout, tipografi, dan hierarki visual agar insight data mudah dipahami audiens. | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/username_reno) |
+| **Abiyu Rahman Putrandi**<br>`21060125120054` | **Pengkodean Grafik 5 (Gabungan) Bagian 2**<br>Melanjutkan coding visualisasi gabungan, termasuk penyesuaian parameter estetika (seperti legend, axis, color palette) dan melakukan debugging pada plot akhir. | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/username_abiyu) |
+| **Muhammad Nurul Fathir**<br>`21060125140187` | **Pengkodean Grafik 1 & 2**<br>Menangani tahap data preparation awal dan menulis sintaks untuk mengekstrak serta memvisualisasikan korelasi data pada grafik pertama dan kedua. | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/username_fathir) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/username_fathir) |
+| **Muhammad Mahmud Al-Sawwaf**<br>`21060125140207` | **Pengkodean Grafik 3 & 4**<br>Melakukan filtering data pada variabel spesifik dan merancang script plotting untuk menghasilkan visualisasi yang akurat pada grafik ketiga dan keempat. | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/username_sawwaf) |
 
-Menerjemahkan hasil akhir plotting data dari bahasa pemrograman ke dalam bentuk infografis. Mengatur layout, tipografi, dan hierarki visual agar insight data mudah dipahami audiens.
+---
 
-Abiyu Rahman Putrandi (21060125120054) --> Pengkodean Grafik 5 (Gabungan) Bagian 2
+## 🛠️ Teknologi & Library yang Digunakan
 
-Melanjutkan coding visualisasi gabungan, termasuk penyesuaian parameter estetika (seperti legend, axis, color palette) dan melakukan debugging pada plot akhir.
-
-Muhammad Nurul Fathir (21060125140187) --> Pengkodean Grafik 1 & 2
-
-Menangani tahap data preparation awal dan menulis sintaks untuk mengekstrak serta memvisualisasikan korelasi data pada grafik pertama dan kedua.
-
-Muhammad Mahmud Al-Sawwaf (21060125140207) --> Pengkodean Grafik 3 & 4
-
-Melakukan filtering data pada variabel spesifik dan merancang script plotting untuk menghasilkan visualisasi yang akurat pada grafik ketiga dan keempat.
+* **Bahasa Pemrograman:** Python / C++ (Sesuaikan dengan proyek kalian)
+* **Library Visualisasi:** Matplotlib / Seaborn / Plotly (Sesuaikan dengan proyek kalian)
+* **Pengolah Data:** Pandas / NumPy (Sesuaikan dengan proyek kalian)
