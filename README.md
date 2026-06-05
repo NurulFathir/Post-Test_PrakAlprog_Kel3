@@ -16,6 +16,7 @@ Berikut adalah daftar anggota tim beserta kontribusi dan tanggung jawab dalam pr
 
 ## 🛠️ Teknologi & Library yang Digunakan
 
-* **Bahasa Pemrograman:** Python / C++ (Sesuaikan dengan proyek kalian)
-* **Library Visualisasi:** Matplotlib / Seaborn / Plotly (Sesuaikan dengan proyek kalian)
-* **Pengolah Data:** Pandas / NumPy (Sesuaikan dengan proyek kalian)
+* **Bahasa Pemrograman:** Python 
+* **Library Visualisasi:** Matplotlib / Seaborn
+* **Compiler:** Google Colab
+* **Pengolah Data:** Pandas
