@@ -1,4 +1,4 @@
-# 📊 Proyek Visualisasi Data - Grafik Komprehensif
+# 📊 Proyek Visualisasi Data - Post-Test Praktikum Algoritma & Pemrograman
 
 ## 👥 Anggota Kelompok & Pembagian Tugas
 
